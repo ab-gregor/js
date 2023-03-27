@@ -1,0 +1,22 @@
+#main{
+    position: relative;
+    left: 45%;
+    top: 200px;
+    
+}
+#heading{
+    background-color: aquamarine;
+    width: max-content;
+    position: relative;
+    left:40px;
+}
+.field{
+    padding: 4px;
+    margin: 5px;
+}
+#form{
+    background-color: cadetblue;
+    width: max-content;
+    
+    
+}
